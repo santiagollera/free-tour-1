@@ -1,13 +1,13 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/banner.jpg
   bg_overlay: true
   title: Free Tours Marbella
   content: Original Marbella Free Walking Tour
   button:
     enable: true
-    label: Discover Our Project
+    label: Reservar
     link: project
 about:
   enable: true

@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Reservar
-    link: project
+    link: about
 about:
   enable: true
   title: About Us

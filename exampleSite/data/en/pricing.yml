@@ -12,17 +12,16 @@ pricing:
     - 'Distance: 2km'
     - Oficcial Tour Guide
     - Small Gorups no more than 10 people
-  - name: Premium
-    price: "$199"
-    content: Suitable for small businesses with up to 5 employees
-    link: "#"
+  - name: Private Walking Tour
+    price: 25€ pp
+    content: We adjust time and route to your needs
+    link: contact
     services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+    - Marbella City center or Parade & Fishermans Quarter
+    - Size of the group of your family and friends
+    - 'Duration: adjustable'
+    - 'Distance: adjustable'
+    - Official Tourguide
   - name: Advance
     price: "$299"
     content: Suitable for large businesses with unlimited employees

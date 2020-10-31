@@ -7,8 +7,8 @@ banner:
   content: Original Marbella Free Walking Tour
   button:
     enable: true
-    label: Book
-    link: about
+    label: Book now!
+    link: contact
 about:
   enable: true
   title: WE WILL VISIT

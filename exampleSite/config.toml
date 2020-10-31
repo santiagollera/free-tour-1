@@ -17,16 +17,8 @@ name = "About"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "project"
-name = "Project"
+name = "Tours"
 weight = 2
-[[Languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[Languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
 [[Languages.en.menu.footer]]
 URL = "faq"
 name = "FAQ"
@@ -45,27 +37,15 @@ name = "About"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
-name = "Project"
+name = "Tours"
 weight = 3
-[[Languages.en.menu.main]]
-URL = "service"
-name = "Service"
-weight = 4
 [[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
 [[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
-[[Languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"

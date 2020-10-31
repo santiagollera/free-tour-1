@@ -25,7 +25,7 @@ about:
     count: "2648"
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: We are indepented activities agency
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
@@ -54,7 +54,7 @@ features:
 testimonial:
   enable: true
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
@@ -90,4 +90,4 @@ mission_vision:
       ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
       temporibus eos sequi alias hic nemo.
 cta:
-  enable: true
+  enable: false

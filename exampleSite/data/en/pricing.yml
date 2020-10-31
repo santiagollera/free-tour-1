@@ -22,10 +22,10 @@ pricing:
     - 'Duration: adjustable'
     - 'Distance: adjustable'
     - Official Tourguide
-  - name: Advance
-    price: "$299"
-    content: Suitable for large businesses with unlimited employees
-    link: "#"
+  - name: Tapas Tour
+    price: 68€ pp
+    content: Try the best local food and drinks
+    link: contact
     services:
     - Unlimited agents
     - 10 PSD Design

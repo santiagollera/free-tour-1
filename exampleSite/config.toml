@@ -53,7 +53,7 @@ name = "Contact"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [www.actividadesmarbella.com](www.actividadesmarbella.com) Todos los derechos reservados"
+copyright = "Copyright &copy; 2020 [www.freetoursmarbella.com](www.freetoursmarbella.com) Todos los derechos reservados"
 languageCode = "es-Es"
 languageName = "Es"
 weight = "2"

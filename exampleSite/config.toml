@@ -73,69 +73,53 @@ name = "Contact"
 weight = 7
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+copyright = "Copyright &copy; 2020 [www.freetoursmarbella.com](www.freetoursmarbella.com) Todos los derechos reservados"
+languageCode = "es-Es"
+languageName = "Es"
+weight = "2"
 [[Languages.fr.menu.footer]]
 URL = "about"
-name = "About"
+name = "Acerca de"
 weight = 1
 [[Languages.fr.menu.footer]]
 URL = "project"
-name = "Project"
+name = "Rutas"
 weight = 2
 [[Languages.fr.menu.footer]]
-URL = "service"
-name = "Service"
+URL = "blog"
+name = "Blog"
 weight = 3
 [[Languages.fr.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[Languages.fr.menu.footer]]
 URL = "faq"
-name = "FAQ"
+name = "Preguntas"
 weight = 5
 [[Languages.fr.menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [[Languages.fr.menu.main]]
 URL = "/"
-name = "Accueil"
+name = "Inicio"
 weight = 1
 [[Languages.fr.menu.main]]
 URL = "about"
-name = "À propos"
+name = "Acerca de"
 weight = 2
 [[Languages.fr.menu.main]]
 URL = "project"
-name = "Projet"
-weight = 3
-[[Languages.fr.menu.main]]
-URL = "service"
-name = "Un service"
-weight = 4
+name = "Rutas"
+weight = "3"
 [[Languages.fr.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 5
 [[Languages.fr.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 6
-[[Languages.fr.menu.main]]
 URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[Languages.fr.menu.main]]
-URL = "pricing"
-name = "Tarification"
+name = "Preguntas frecuentes"
 parent = "Pages"
 [[Languages.fr.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 7
 [markup.goldmark.renderer]
 unsafe = true

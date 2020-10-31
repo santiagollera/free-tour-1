@@ -33,9 +33,7 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: Smalls groups or private tours
-  content: For 25€ per person we can organize a private visit for you and your family
-    or friends. This is the best optio to get to know Marbella Old Town in a exclusive
-    way and with the best premium service
+  content: ''
   button:
     enable: true
     label: Book

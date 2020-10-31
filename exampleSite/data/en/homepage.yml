@@ -57,17 +57,17 @@ funfacts:
   description: ''
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Mensajes con clientes
+    name: Messages
     count: "1348"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Tourists
+    count: "346"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
+    name: Tours
     count: "125"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Days active
+    count: "435"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg

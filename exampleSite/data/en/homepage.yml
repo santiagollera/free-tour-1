@@ -27,6 +27,10 @@ about:
     Duration: 90min
   content: ''
   image: images/wrapper-img.png
+  button:
+    enable: true
+    label: Bookings
+    link: contact
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg

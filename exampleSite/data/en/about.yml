@@ -11,9 +11,9 @@ about:
     label: Download Company Profile
     link: "#"
   funfacts:
-  - icon: ion-ios-pint-outline
-    name: Satisfied Customer
-    count: "70"
+  - icon: ion-ios-compose-outline
+    name: Walking tours
+    count: "1366"
   - icon: ion-ios-wineglass-outline
     name: Tapas Tours
     count: "145"

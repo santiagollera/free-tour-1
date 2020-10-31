@@ -32,11 +32,13 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: Smalls groups or private tours
-  content: ''
+  title: Smalls groups, Tapas or private Tours
+  content: We are locals and proffesional guides and can recomend you better than
+    anyone what to do in Marbella. Take our tour the first day of your visit to the
+    city and we will show the infinite possibilities arround
   button:
     enable: true
-    label: Book
+    label: Contact
     link: contact
 service:
   enable: false

@@ -34,19 +34,14 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Smalls groups or private tours
+  content: For 25€ per person we can organize a private visit for you and your family
+    or friends. This is the best optio to get to know Marbella Old Town in a exclusive
+    way and with the best premium service
   button:
     enable: true
-    label: View Works
-    link: project
+    label: Book
+    link: contact
 service:
   enable: true
 cta:

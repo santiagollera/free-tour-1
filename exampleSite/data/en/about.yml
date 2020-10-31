@@ -24,7 +24,7 @@ about:
     name: Happy Customers
     count: "2648"
 features:
-  enable: true
+  enable: false
   title: We are indepented activities agency
   feature_item:
   - icon: ion-ios-color-filter-outline
@@ -52,7 +52,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
 testimonial:
-  enable: true
+  enable: false
 mission_vision:
   enable: false
   tabs:

@@ -8,8 +8,8 @@ about:
     So far so good nowadays with 3 different routes in the city center in 2 languages we are able to offer tapas, private and free walking tours in the pearl of Costa del Sol.
   button:
     enable: true
-    label: Download Company Profile
-    link: "#"
+    label: Contact
+    link: contact
   funfacts:
   - icon: ion-ios-compose-outline
     name: Walking tours

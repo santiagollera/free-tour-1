@@ -1,62 +1,37 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2019-12-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: F.A.Q
+description: ''
+subtitle: ''
+date: 
+bg_image: images/featue-bg.jpg
+
 ---
+### Preguntas frecuentes
 
-### Welcome to Airspace!
+Preguntas frecuentes
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Ahí tienes, estas son algunas de las preguntas y respuestas que te comunicamos con mayor continuidad pero si tienes alguna otra que no encuentras aquí no te preocupes, te atenderemos con todo el gusto en el [formulario de contacto](contac "Contac") o en el número +34 6663010971
 
-#### 1.Overview
+#### 1. ¿Es el Tour gratis?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+Si realmente es la primera vez que realiza un recorrido "Free Tour", debe saber que nada en esta vida es gratis :) Lo siento. El modelo de free tour a pie hoy en día está en todo el mundo, es del inglés libre de elegir cuánto pagar porque el cliente pone el precio. Al final de la actividad aceptamos propinas dependiendo de lo bueno que haya sido el recorrido pero, por supuesto, si no te gustó en absoluto y el guía no fue lo suficientemente bueno, puedes decidir no pagar nada. Así que le dará la garantía de que obtendrá un buen servicio.
 
-#### 2. Data We Collect
+#### 2. ¿Dónde comienza la ruta?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Todos nuestros tours comienzan y terminan en el mismo lugar:
 
-#### 3. How We Use Data
+\- Parque de la Alameda, Marbella.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+\*Justo en frente de la fuente de la Virgen del Rocío.
 
-#### 4. How We Disclose Data.
+#### 3. ¿Tengo que hacer una reserva?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+Sí por favor. Marbella es un destino muy exclusivo, no tenemos tantas reservas especialmente durante el invierno por lo que te recomendamos que nos cuentes al menos el día y te mantengas en contacto.
 
-#### 5. Security
+#### 4. ¿Puedo ahcer un tour privado?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+¡Sí, por supuesto! Nos encanta hacer tours privados, más pequeño es el grupo, mejor es el servicio. Solo tiene que decirnos cuándo le gustaría venir con su familia o amigos y organizaremos la reserva. Este precio tiene un precio fijo de 25 € por persona y no tiene límite de grupo.
 
-#### 6. Advertising.
+#### 5. ¿A dónde iremos en el tour de tapas?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
-  
+Los bares y restaurantes del tour de tapas son secretos :) Te prometemos que no estarás de repente en un lugar incómodo con gente incómoda pero por motivos profesionales no mostramos información hasta el día de la actividad.

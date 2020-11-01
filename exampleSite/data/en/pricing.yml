@@ -34,4 +34,4 @@ pricing:
     - 'Duration: 3hs'
     - 'Distance: 1km'
 cta:
-  enable: true
+  enable: false

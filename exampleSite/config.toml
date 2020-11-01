@@ -28,7 +28,7 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
-URL = "/fr"
+URL = "/en"
 name = "Home"
 weight = 1
 [[Languages.en.menu.main]]

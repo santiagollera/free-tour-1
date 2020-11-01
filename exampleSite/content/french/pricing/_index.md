@@ -1,6 +1,6 @@
 ---
-title: "Our Pricing"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Nuestros tours
+description: ''
+bg_image: images/featue-bg.jpg
+
 ---

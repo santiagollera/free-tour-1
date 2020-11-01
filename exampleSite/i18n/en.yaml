@@ -1,3 +1,4 @@
+---
 - id: last_update
   translation: Last updated
 - id: phone
@@ -7,7 +8,7 @@
 - id: location
   translation: Location
 - id: buy_now
-  translation: Buy Now
+  translation: Book now
 - id: address_title
   translation: Stop By For A visit
 - id: submit

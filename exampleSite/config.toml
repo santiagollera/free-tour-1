@@ -111,7 +111,7 @@ contact_form_action = "#"
 description = "Free Tours in Marbella Centro. Original ruta a pie de Marbella gratis solo propinas"
 email = "freetoursmarbella@gmail.com"
 google_analitycs_id = ""
-location = "Marbella. España"
+location = "Parque de la Alameda, Marbella. España"
 logo = "images/logo.png"
 logo_width = "150px"
 mobile = "+34 663010971"
@@ -154,18 +154,6 @@ enable = false
 preloader = ""
 [params.widgets]
 sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
-[[params.social]]
-icon = "ion-social-googleplus-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-linkedin-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
 [[params.social]]
 icon = "ion-social-twitter-outline"
 link = "#"

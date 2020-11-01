@@ -8,7 +8,7 @@
 - id: location
   translation: Location
 - id: buy_now
-  translation: Book now
+  translation: Read more
 - id: address_title
   translation: Stop By For A visit
 - id: submit

@@ -1,6 +1,6 @@
 ---
 title: Nuestros tours
-description: ''
+description: Diferentes maneras de conocer la ciudad
 bg_image: images/featue-bg.jpg
 
 ---

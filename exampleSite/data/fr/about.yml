@@ -11,7 +11,7 @@ about:
   button:
     enable: true
     label: Contacto
-    link: contact
+    link: https://freetoursmarbella.com/fr/contact/
   funfacts: []
 features:
   enable: false

@@ -1,6 +1,6 @@
 ---
 title: Centro Histórico
-description: ''
+description: Free tour centro histórico marbella
 image: "/images/actividades-marbella-free-tour.jpg"
 bg_image: images/featue-bg.jpg
 category: Centro Histórico

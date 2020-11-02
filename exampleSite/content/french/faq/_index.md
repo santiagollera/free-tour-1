@@ -1,5 +1,5 @@
 ---
-title: F.A.Q
+title: Preguntas frecuentes
 description: ''
 subtitle: ''
 date: 2020-11-01T00:00:00.000+01:00

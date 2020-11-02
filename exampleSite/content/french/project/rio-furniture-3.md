@@ -3,7 +3,7 @@ title: Paseo Marítimo
 description: Free tour paseo marítimo marbella
 image: "/images/avenida-del-mar-marbella.jpg"
 bg_image: images/featue-bg.jpg
-category: Paseo Marítimo
+category: Free Tours
 information:
 - label: Precio
   info: Libre

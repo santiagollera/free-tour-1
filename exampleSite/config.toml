@@ -36,13 +36,9 @@ URL = "about"
 name = "About"
 weight = 2
 [[Languages.en.menu.main]]
-URL = "pricing"
+URL = "project"
 name = "Tours"
 weight = 3
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 5
 [[Languages.en.menu.main]]
 URL = "faq"
 name = "FAQ"

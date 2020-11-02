@@ -26,3 +26,5 @@ The activity of the tapas tour through the historic center of Marbella is a tail
 It is about tasting traditional Spanish dishes in secret and very special places for its history and its flavor that I assure you will surprise you.
 
 A total of 4 places will be visited with a cuisine specially selected for its flavor but also for the history of this business and the link with the town that they carry. The tapas are also tasty, generous so you will leave eaten and with enough calories, guaranteed.
+
+The route is done on foot and we will spend approximately 45min in each place and the calories consumed will be around 1000 between snacks and drinks, taking into account the tastes and preferences of each consumer

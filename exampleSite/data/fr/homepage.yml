@@ -34,7 +34,7 @@ portfolio:
     en Marbella. Reserva tu tour el primer día y podremos mostrarte la ifninidad de
     posibilidades en los alrededores :)"
   button:
-    enable: true
+    enable: false
     label: Rutas
     link: project
 service:

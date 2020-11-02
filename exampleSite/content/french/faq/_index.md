@@ -10,7 +10,7 @@ bg_image: images/featue-bg.jpg
 
 Preguntas frecuentes
 
-Ahí tienes, estas son algunas de las preguntas y respuestas que te comunicamos con mayor continuidad pero si tienes alguna otra que no encuentras aquí no te preocupes, te atenderemos con todo el gusto en el [formulario de contacto](contac "Contac") o en el número +34 6663010971
+Ahí tienes, estas son algunas de las preguntas y respuestas que te comunicamos con mayor continuidad pero si tienes alguna otra que no encuentras aquí no te preocupes, te atenderemos con todo el gusto en el [**formulario de contacto **](https://freetoursmarbella.com/fr/contact/ "Contac")o en el número +34 6663010971
 
 #### 1. ¿Es el Tour gratis?
 

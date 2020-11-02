@@ -13,10 +13,6 @@ information:
   info: 3kms aprox.
 - label: Monumentos
   info: "9"
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
 
 ---
 ## Paseo Marítimo

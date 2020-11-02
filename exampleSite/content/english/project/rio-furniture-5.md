@@ -5,18 +5,16 @@ image: "/images/actividades-marbella-free-tour.jpg"
 bg_image: images/featue-bg.jpg
 category: Old Town
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Price
+  info: Free
+- label: Duration
+  info: 90min
+- label: Distance
+  info: 2,5km aprox.
+- label: Monuments
+  info: "11"
+- label: Private tour
+  info: 25€
 
 ---
 ## Old Town Marbella

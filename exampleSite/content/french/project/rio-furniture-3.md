@@ -48,3 +48,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero qua
 libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
 mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
 culpa? Delectus dolorum facere quasi iure explicabo?
+
+[![](/images/boton-esp.png)](La ruta se realiza a pie y estaremos unos 45min en cada local aproximadamente y las calorías consumidas serán de alrededor de 1000 entre los aperitivos y las bebidas teniendo en cuenta los gustos y preferencias de cada consumidor "Reservar")

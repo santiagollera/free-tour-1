@@ -1,6 +1,6 @@
 ---
 title: Tour de Tapas
-description: ''
+description: Tapas Tour Marbella
 image: "/images/actividades-marbella-tour-de-tapas-ruta.jpg"
 bg_image: images/featue-bg.jpg
 category: Tapas

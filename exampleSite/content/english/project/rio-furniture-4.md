@@ -1,6 +1,6 @@
 ---
 title: Promenade Tour
-description: ''
+description: Marbella free tour Promenade
 image: "/images/avenida-del-mar-marbella.jpg"
 bg_image: images/featue-bg.jpg
 category: Promenade

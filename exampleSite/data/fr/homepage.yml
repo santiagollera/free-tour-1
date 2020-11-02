@@ -12,17 +12,18 @@ banner:
 about:
   enable: true
   title: 'Visitaremos en el Free Tour:'
-  description: |-
+  description: |2-
+
+    Precio: Gratis, se aceptan propinas
+
+    Duración: 90min
+  content: |-
     Iglesia de la Encarnación
     Alcázar y muralla árabe
     Plaza de los Naranjos y Ayuntamiento
     Plaza del puente de Ronda
     Plaza del Santo Cristo
     Calle Lobatas
-    Precio: Gratis, se aceptan propinas
-
-    Duración: 90min
-  content: ''
   image: images/wrapper-img.png
 portfolio:
   enable: true

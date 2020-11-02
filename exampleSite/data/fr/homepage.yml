@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Rutas
-    link: project
+    link: contact
 about:
   enable: true
   title: 'Visitaremos en el Free Tour:'

@@ -13,6 +13,8 @@ information:
   info: 3km aprox.
 - label: Monuments
   info: "8"
+- label: Private Tour
+  info: 25€pp
 
 ---
 ## Promenade Tour

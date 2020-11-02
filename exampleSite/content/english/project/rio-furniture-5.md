@@ -14,7 +14,7 @@ information:
 - label: Monuments
   info: "11"
 - label: Private tour
-  info: 25€
+  info: 25€ pp
 
 ---
 ## Old Town Marbella

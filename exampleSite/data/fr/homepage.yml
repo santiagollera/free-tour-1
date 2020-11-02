@@ -18,12 +18,12 @@ about:
 
     Duración: 90min
   content: |-
-    Iglesia de la Encarnación
-    Alcázar y muralla árabe
-    Plaza de los Naranjos y Ayuntamiento
-    Plaza del puente de Ronda
-    Plaza del Santo Cristo
-    Calle Lobatas
+    - Iglesia de la Encarnación
+    - Alcázar y muralla árabe
+    - Plaza de los Naranjos y Ayuntamiento
+    - Plaza del puente de Ronda
+    - Plaza del Santo Cristo
+    - Calle Lobatas
   image: images/wrapper-img.png
 portfolio:
   enable: true

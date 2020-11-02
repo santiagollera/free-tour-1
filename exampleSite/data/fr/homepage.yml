@@ -7,7 +7,7 @@ banner:
   content: Rutas a pie por el centro histórico
   button:
     enable: true
-    label: Rutas
+    label: Reservar
     link: contact
 about:
   enable: true

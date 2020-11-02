@@ -8,7 +8,7 @@ banner:
   button:
     enable: true
     label: Book now!
-    link: contact
+    link: project
 about:
   enable: true
   title: WE WILL VISIT

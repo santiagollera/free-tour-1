@@ -2,7 +2,7 @@
 title: F.A.Q
 description: ''
 subtitle: ''
-date: 2020-11-01T00:00:00+01:00
+date: 2020-11-01T00:00:00.000+01:00
 bg_image: images/featue-bg.jpg
 
 ---
@@ -28,7 +28,7 @@ Todos nuestros tours comienzan y terminan en el mismo lugar:
 
 Sí por favor. Marbella es un destino muy exclusivo, no tenemos tantas reservas especialmente durante el invierno por lo que te recomendamos que nos cuentes al menos el día y te mantengas en contacto.
 
-#### 4. ¿Puedo ahcer un tour privado?
+#### 4. ¿Puedo hacer un tour privado?
 
 ¡Sí, por supuesto! Nos encanta hacer tours privados, más pequeño es el grupo, mejor es el servicio. Solo tiene que decirnos cuándo le gustaría venir con su familia o amigos y organizaremos la reserva. Este precio tiene un precio fijo de 25 € por persona y no tiene límite de grupo.
 

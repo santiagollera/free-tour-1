@@ -5,46 +5,28 @@ image: "/images/actividades-marbella-tour-de-tapas-ruta.jpg"
 bg_image: images/featue-bg.jpg
 category: Tapas
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+- label: Precio
+  info: 68€ pp
+- label: Duración
+  info: 3hs aprox.
+- label: Distancia
+  info: 1,5 km aprox.
+- label: Bares visitados
+  info: "4"
+- label: Tapas y bebidas
+  info: 5 tapas y 4 bebidas
+- label: Calorías
+  info: 900 Ca aprox.
 
 ---
-## Behance Website Redesign
+## Ruta a pie de Tapas
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+La actividad del tour de tapas por el centro histórico de Marbella es un recorrido hecho a medida siguiendo las recomendaciones de uno de los más grandes de la cocina española y local marbellí de pura cepa Dani García.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+Se trata de degustar platos españoles tradicionales en sitios secretos y muy especiales por su historia y su sabor que aseguro te sorprenderán.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+Se visitarán en total 4 locales con una cocina especialemente seleccionada por su sabor pero también por la historia de este negocio y la vinculación con la localidad que acarrean. Las tapas son además de sabrosas, generosas así que te irás comido y con las calorías suficientes, garantizado.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+La ruta se realiza a pie y estaremos unos 45min en cada local aproximadamente y las calorías consumidas serán de alrededor de 1000 entre los aperitivos y las bebidas teniendo en cuenta los gustos y preferencias de cada consumidor.
+
+[![](/images/boton-esp.png)](La ruta se realiza a pie y estaremos unos 45min en cada local aproximadamente y las calorías consumidas serán de alrededor de 1000 entre los aperitivos y las bebidas teniendo en cuenta los gustos y preferencias de cada consumidor "Reservar")

@@ -19,7 +19,7 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Behance Website Redesign
+## Old Town Marbella
 
 The original Marbella Center Free Tour route, with anecdotes that will surely make you smile. We will learn how Marbella, a town of 10 thousand inhabitants and mostly fishermen, became one of the most exclusive and famous destinations in the world.
 

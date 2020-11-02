@@ -13,8 +13,8 @@ information:
   info: 1.5km aprox.
 - label: Number of Bars
   info: "4"
-- label: Tapas
-  info: "5"
+- label: Tapas and drinks
+  info: 5 tapas 4 drinks
 - label: Calories
   info: Arround 900 Ca
 

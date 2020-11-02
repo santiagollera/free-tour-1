@@ -62,7 +62,7 @@ URL = "project"
 name = "Rutas"
 weight = 2
 [[Languages.fr.menu.footer]]
-URL = "faq"
+URL = "https://freetoursmarbella.com/fr/faq/"
 name = "Preguntas"
 weight = 5
 [[Languages.fr.menu.footer]]

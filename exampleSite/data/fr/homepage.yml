@@ -12,10 +12,7 @@ banner:
 about:
   enable: true
   title: Visitaremos en el Free Tour
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: |-
+  description: |-
     Iglesia de la Encarnación
     Alcázar y muralla árabe
     Plaza de los Naranjos y Ayuntamiento
@@ -25,6 +22,7 @@ about:
     Precio: Gratis, se aceptan propinas
 
     Duración: 90min
+  content: ''
   image: images/wrapper-img.png
 portfolio:
   enable: true

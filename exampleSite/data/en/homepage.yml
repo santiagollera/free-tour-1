@@ -37,7 +37,7 @@ portfolio:
     anyone what to do in Marbella. Take our tour the first day of your visit to the
     city and we will show the infinite possibilities arround
   button:
-    enable: true
+    enable: false
     label: Contact
     link: contact
 service:

@@ -54,11 +54,11 @@ languageCode = "es-Es"
 languageName = "Es"
 weight = "2"
 [[Languages.fr.menu.footer]]
-URL = "about"
+URL = "https://freetoursmarbella.com/fr/about/"
 name = "Acerca de"
 weight = 1
 [[Languages.fr.menu.footer]]
-URL = "project"
+URL = "https://freetoursmarbella.com/fr/project/"
 name = "Rutas"
 weight = 2
 [[Languages.fr.menu.footer]]
@@ -66,7 +66,7 @@ URL = "https://freetoursmarbella.com/fr/faq/"
 name = "Preguntas"
 weight = 5
 [[Languages.fr.menu.footer]]
-URL = "contact"
+URL = "https://freetoursmarbella.com/fr/contact/"
 name = "Contacto"
 weight = 6
 [[Languages.fr.menu.main]]

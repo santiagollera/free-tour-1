@@ -3,7 +3,7 @@ title: Free Tour Old Town
 description: free tour marbella
 image: "/images/actividades-marbella-free-tour.jpg"
 bg_image: images/featue-bg.jpg
-category: Old Town
+category: Free Tours
 information:
 - label: Price
   info: Free

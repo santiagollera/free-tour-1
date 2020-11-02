@@ -36,7 +36,7 @@ portfolio:
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: false
   bg_image: images/call-to-action-bg.jpg
@@ -50,23 +50,21 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: Comentarios
+  description: Clientes opinan sobre nosotros
   funfact_item:
   - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+    name: Mensajes respondidos
+    count: "1348"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Tursitas
+    count: "346"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
+    name: Tours completados
     count: "125"
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
+    name: Días activos
+    count: "435"
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg

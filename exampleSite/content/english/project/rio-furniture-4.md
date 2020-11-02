@@ -1,5 +1,5 @@
 ---
-title: Tour Paseo Marítimo Marbella Promenade
+title: Promenade Tour
 description: ''
 image: "/images/avenida-del-mar-marbella.jpg"
 bg_image: images/featue-bg.jpg

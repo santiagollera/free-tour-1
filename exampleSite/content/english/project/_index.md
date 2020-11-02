@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Marbella Tours
+description: ''
+bg_image: images/featue-bg.jpg
+
 ---

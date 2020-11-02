@@ -1,6 +1,6 @@
 ---
 title: Paseo Marítimo
-description: ''
+description: Free tour paseo marítimo marbella
 image: "/images/avenida-del-mar-marbella.jpg"
 bg_image: images/featue-bg.jpg
 category: Paseo Marítimo
@@ -13,6 +13,8 @@ information:
   info: 3kms aprox.
 - label: Monumentos
   info: "9"
+- label: Tour privado
+  info: 25€pp
 
 ---
 ## Paseo Marítimo

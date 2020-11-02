@@ -13,6 +13,8 @@ information:
   info: 2,5km aprox.
 - label: Monumentos
   info: "11"
+- label: Tour Privado
+  info: 25€pp
 
 ---
 ## Free Tour Marbella

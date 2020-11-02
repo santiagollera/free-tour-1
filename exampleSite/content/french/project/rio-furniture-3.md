@@ -5,14 +5,14 @@ image: "/images/avenida-del-mar-marbella.jpg"
 bg_image: images/featue-bg.jpg
 category: Paseo Marítimo
 information:
-- label: Client
-  info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
+- label: Precio
+  info: Libre
+- label: Duración
+  info: 90min
+- label: Distancia
+  info: 3kms aprox.
+- label: Monumentos
+  info: "9"
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client

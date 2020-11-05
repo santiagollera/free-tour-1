@@ -30,7 +30,7 @@ about:
     label: Bookings
     link: contact
 portfolio:
-  enable: true
+  enable: false
   bg_image: images/featue-bg.jpg
   title: Smalls groups, Tapas or private Tours
   content: We are locals and proffesional guides and can recomend you better than
@@ -43,7 +43,7 @@ portfolio:
 service:
   enable: false
 cta:
-  enable: false
+  enable: true
   bg_image: images/call-to-action-bg.jpg
   title: We design delightful digital experiences.
   content: Read more about what we do and our philosophy of design. Judge for yourself

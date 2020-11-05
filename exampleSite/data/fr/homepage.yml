@@ -43,9 +43,9 @@ cta:
   enable: true
   bg_image: images/actividades-marbella-freetour.jpg
   title: Hacemos muy buenos tours
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  content: Somos guías profesionales locales que podemos recomendarte mejor que nadie
+    qué hacer en Marbella<br> Toma el primer día un tour con nosotros y te mostraremos
+    las infinitas posibilidades que tienes esta marabillosa ciudad
   button:
     enable: true
     label: Tell Us Your Story

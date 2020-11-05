@@ -10,19 +10,7 @@ about:
     enable: true
     label: Contact
     link: contact
-  funfacts:
-  - icon: ion-ios-compose-outline
-    name: Walking tours
-    count: "1366"
-  - icon: ion-ios-wineglass-outline
-    name: Tapas Tours
-    count: "145"
-  - icon: ion-ios-chatboxes-outline
-    name: Mesages
-    count: "4327"
-  - icon: ion-ios-body-outline
-    name: Happy Customers
-    count: "2648"
+  funfacts: []
 features:
   enable: false
   title: We are indepented activities agency

@@ -41,7 +41,7 @@ service:
   enable: false
 cta:
   enable: true
-  bg_image: images/actividades-marbella-freetour.jpg
+  bg_image: images/actividades-marbella-free-tour.jpg
   title: Hacemos muy buenos tours
   content: Somos guías profesionales locales que podemos recomendarte mejor que nadie
     qué hacer en Marbella<br> Toma el primer día un tour con nosotros y te mostraremos

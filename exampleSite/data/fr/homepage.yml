@@ -48,7 +48,7 @@ cta:
     las infinitas posibilidades que tienes esta marabillosa ciudad
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Contactar
     link: contact
 funfacts:
   enable: true

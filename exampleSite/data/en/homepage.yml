@@ -57,19 +57,7 @@ funfacts:
   enable: true
   title: Comments
   description: ''
-  funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Messages
-    count: "1348"
-  - icon: ion-ios-glasses-outline
-    name: Tourists
-    count: "346"
-  - icon: ion-ios-compose-outline
-    name: Tours
-    count: "125"
-  - icon: ion-ios-timer-outline
-    name: Days active
-    count: "435"
+  funfact_item: []
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg

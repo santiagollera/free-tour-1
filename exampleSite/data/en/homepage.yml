@@ -12,17 +12,12 @@ banner:
 about:
   enable: true
   title: WE WILL VISIT
-  description: |-
-    * Church of Encarnación
-    * Alcazar y arabian wall
-    * Naranjos Square and city hall
-    * Bridge of Ronda Square
-    * Santo Cristo Square
-    * Lobatas Street
-
-    Price: Free, tips are welcome
-
-    Duration: 90min
+  description: "It's a circular route that we will start and finish in the same location.
+    In chronological order, at the end of this tour we will know everything about
+    the marvelous and unique Marbella \n* Church of Encarnación\n* Alcazar y arabian
+    wall\n* Naranjos Square and city hall\n* Bridge of Ronda Square\n* Santo Cristo
+    Square\n* Lobatas Street\n* Malaga Bridge Square\n* Promenade\n\nPrice: Free,
+    tips are welcome\n\nDuration: 90min"
   content: ''
   image: images/wrapper-img.png
   button:

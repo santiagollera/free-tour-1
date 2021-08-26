@@ -5,6 +5,10 @@
 <!-- banner -->
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
+
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-8537559d-8ca4-4ed9-b0ca-e7bfda43b81e"></div>
+
 <section class="slider {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL }}');">
   <div class="container">
     <div class="row">
